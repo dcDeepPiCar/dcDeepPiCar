@@ -1,4 +1,4 @@
-# HackerRank-30-Days-of-Code
+# temp8
 HackerRank 30 Day challenge to brush up my coding skills. Presently, I prefer completing it in Python. But, I plan to add them in Java and C++ as well.
 
 You can find the challenges here : [HackerRank - 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
